@@ -1,0 +1,13 @@
+F:\GitHub\design-pattern\design-patterns\design-patterns\bin\Debug\netcoreapp3.1\design-patterns.exe
+F:\GitHub\design-pattern\design-patterns\design-patterns\bin\Debug\netcoreapp3.1\design-patterns.deps.json
+F:\GitHub\design-pattern\design-patterns\design-patterns\bin\Debug\netcoreapp3.1\design-patterns.runtimeconfig.json
+F:\GitHub\design-pattern\design-patterns\design-patterns\bin\Debug\netcoreapp3.1\design-patterns.runtimeconfig.dev.json
+F:\GitHub\design-pattern\design-patterns\design-patterns\bin\Debug\netcoreapp3.1\design-patterns.dll
+F:\GitHub\design-pattern\design-patterns\design-patterns\bin\Debug\netcoreapp3.1\design-patterns.pdb
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.csprojAssemblyReference.cache
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.AssemblyInfoInputs.cache
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.AssemblyInfo.cs
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.csproj.CoreCompileInputs.cache
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.dll
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.pdb
+F:\GitHub\design-pattern\design-patterns\design-patterns\obj\Debug\netcoreapp3.1\design-patterns.genruntimeconfig.cache
